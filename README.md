@@ -1,5 +1,5 @@
-# The Claw
-Gerenciador de bot para messenger-platform
+# BdeBot
+Gerenciador de bot para messenger-platform desenvolvido para Banco de Bits
 
 ## Credit
 Baseado em:
